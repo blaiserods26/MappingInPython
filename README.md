@@ -1,4 +1,4 @@
-# MappingInPython
+# Mapping In Python
 A set of python programs to make a map (2D or 3D).
 
 This repository contains python programs for using simple x, y and z co-ordinates to plot the results in either 2D (only x and y) and in 3D (x, y and z).
