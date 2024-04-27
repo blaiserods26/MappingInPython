@@ -57,6 +57,6 @@ Note : The upper limit of the co-ordinates is 1000 but it can be changed in the 
 ```
 
 ## Sample Input 
-Sample inputs are provided in the [input](input) file.
+Sample inputs are provided in the [input](input) folder.
 ## License
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENCE) file for the full text of the license.
