@@ -12,8 +12,8 @@ print(arr)
 
 plt.imshow(arr, cmap='binary')
 
-plt.xlabel('X-axis')
-plt.ylabel('Y-axis')
+plt.xlabel('X-direction')
+plt.ylabel('Y-direction')
 plt.title("2D MAP")
 
 plt.show()
